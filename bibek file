@@ -17,14 +17,12 @@ public class printerapp
 
 
  int Addition = number1+number2;
- System.out.println("5 + 2 = "+ Addition);
+ System.out.println("5 + 2 = " + Addition);
 
  double Division = number1/number2;
- System.out.println("5 / 2 = "+ Division);
+ System.out.println("5 / 2 = " + Division);
  
  int Subtraction = number1-number2;
  System.out.println("5 - 2 = "+ Subtraction); 
-
- 
  }
 }
