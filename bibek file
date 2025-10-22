@@ -20,7 +20,7 @@ public class printerapp
  System.out.println("5 + 2 = " + Addition);
 
  double Division = number1/number2;
- System.out.println("5 / 2 = " + Division);
+ System.out.println("5 / 5 = " + Division);
  
  int Subtraction = number1-number2;
  System.out.println("5 - 2 = "+ Subtraction); 
